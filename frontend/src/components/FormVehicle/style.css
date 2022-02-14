@@ -1,0 +1,6 @@
+form.Form {
+    flex-direction: column;
+    display: inline-table;
+    width: 75%;
+    margin-top: 40px;
+}

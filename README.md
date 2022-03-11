@@ -27,7 +27,7 @@ Implementando UX/UI para um sistema de venda de veículos.
 > [LTS Version](https://nodejs.org/en/)
 ### 2. Instale o Yarn
 > `npm install --global yarn`
-### 3. Para instalar os pacotes necessários, acesso o terminal: <br>
+### 3. Para instalar os pacotes necessários, acesse o terminal: <br>
 >   3.1. `$yarn` ou `npm install` Na pasta do backend <br>
 >   3.2. `$yarn` ou `npm install` Na pasta do frontend <br>
 
